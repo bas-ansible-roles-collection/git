@@ -11,7 +11,7 @@ Installs Git version control system
 
 ## Overview
 
-* ...
+* Installs Git version control package
 
 ## Quality Assurance
 
