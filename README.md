@@ -7,11 +7,11 @@ Installs Git version control system
 
 **Part of the BAS Ansible Role Collection (BARC)**
 
-**This role uses version 0.3.1 of the https://github.com/bas-ansible-roles-collection/git.git flavour of the BAS Base Project - Pristine**.
+**This role uses version 0.3.1 of the BARC flavour of the BAS Base Project - Pristine**.
 
 ## Overview
 
-* ...
+* Installs Git version control package
 
 ## Quality Assurance
 
@@ -119,11 +119,11 @@ More information is also available in the
 
 All changes should be committed, via pull request, to the canonical repository:
 
-`ssh://git@stash.ceh.ac.uk:7999/barc/ROLE-NAME.git`
+`ssh://git@stash.ceh.ac.uk:7999/barc/git.git`
 
 A read-only mirror of this repository is maintained on GitHub:
 
-`git@github.com:bas-ansible-roles-collection/ROLE-NAME.git`
+`git@github.com:bas-ansible-roles-collection/git.git`
 
 More information is available in the
 [BARC General Documentation](https://antarctica.hackpad.com/BARC-Overview-and-Policies-SzcHzHvitkt#:h=Source-Code)

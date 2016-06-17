@@ -16,11 +16,11 @@ multiple environments.
 
 The *Testing* environment tests a single scenario:
 
-* Ensures Git executable is available and a repository can be cloned
+* ensures Git executable is available and a repository can be cloned
 
 The *Local Testing* environment tests multiple scenarios:
 
-1. ...
+1. `test-basic` - ensures Git executable is available a repository can be cloned
 
 **Note:** *Local Testing* environments test scenarios on all operating systems this role supports. Services providing
 *Testing* environments may limit which operating system are available (e.g. SemaphoreCI only supports Ubuntu Trusty).

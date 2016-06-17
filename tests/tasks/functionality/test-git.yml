@@ -1,0 +1,12 @@
+---
+# Tests if Git can actually be used
+
+- name: get git version
+  command: git --version
+  changed_when: false
+  register: git_test_fact_git_version
+
+- name: clone git repository
+  git:
+    repo=https://github.com/github/gitignore.git
+    dest=/tmp/test
